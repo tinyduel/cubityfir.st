@@ -35,19 +35,19 @@ $(document).ready(function () {
 
     showDiscord = function () {
         infoDiv.animateCss('tada');
-        infoDiv.text('Cubity_First#0001');
+        infoDiv.text('tinydemonic#8883');
         changeColor();
     }
 
     showBackpack = function () {
         infoDiv.animateCss('tada');
-        infoDiv.text('cubityfir.st/bp');
+        infoDiv.text('n3v1n.tk/bp');
         changeColor();
     }
 
     showSteam = function () {
         infoDiv.animateCss('tada');
-        infoDiv.text('cubityfir.st/offer');
+        infoDiv.text('n3v1n.tk/offer');
         changeColor();
     }
 });
